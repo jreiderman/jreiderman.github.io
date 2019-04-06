@@ -6,11 +6,10 @@
 name: Chips n' Solder
 
 # Short bio or description (displayed in the header)
-description: Personal blog mostly about my elecontronics projects
+description: Personal blog mostly about my electronics projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/jreiderman/jreiderman.github.io/blob/master/images/logo.png
-
+avatar: /images/logo.png
 #
 # Flags below are optional
 #
@@ -18,15 +17,15 @@ avatar: https://github.com/jreiderman/jreiderman.github.io/blob/master/images/lo
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jreiderman@gmail.com
   facebook:
   flickr:
-  github: jreidermann/jreiderman.github.io
+  github: jreiderman
   instagram:
-  linkedin:
+  linkedin: jreiderman
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: joshuareiderman
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +36,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-137780726-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
